@@ -1,0 +1,26 @@
+{
+  "short_name": "OSCAL",
+  "name": "OSCAL - Agenda conference companion",
+  "icons": [
+    {
+      "src": "/assets/oscal-icon-56.png",
+      "sizes": "56x56",
+      "type": "image/png"
+    },
+    {
+      "src": "/assets/oscal-icon-112.png",
+      "sizes": "112x112",
+      "type": "image/png"
+    },
+    {
+      "src": "/assets/oscal-icon-224.png",
+      "sizes": "224x224",
+      "type": "image/png"
+    }
+  ],
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#EA272B",
+  "theme_color": "#EA272B"
+}
+

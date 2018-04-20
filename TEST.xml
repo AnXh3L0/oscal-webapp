@@ -1,0 +1,892 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<schedule>
+  <conference>
+    <title>OSCAL 2018</title>
+    <subtitle/>
+    <venue>The Pyramid of Tirana and Protik Center</venue>
+    <city>Tirana</city>
+    <start>2018-05-19</start>
+    <end>2018-05-20</end>
+    <days>2</days>
+    <day_change>09:00:00</day_change>
+    <timeslot_duration>00:05:00</timeslot_duration>
+  </conference>
+    <day index="1" date="2018-05-19">
+	<event>
+		<id>5083</id>
+		<title>Opening Speech</title>
+		<description>The OSCAL 2018 opening speech from the organizers.</description>
+		<abstract></abstract>
+		<SessionLocations>Pyramid</SessionLocations>
+		<room>Main Track</room>
+		<session_date>1526688000</session_date>
+		<start>09:30</start>
+		<duration>00:15</duration>
+		<session_end_time>09:45</session_end_time>
+		<session_speakers_list></session_speakers_list>
+	</event>
+	<event>
+		<id>5132</id>
+		<title><![CDATA[Erion Veliaj's speech]]></title>
+		<description>A word from the mayor of Tirana, Erion Veliaj.</description>
+		<abstract></abstract>
+		<SessionLocations>Pyramid</SessionLocations>
+		<room>Main Track</room>
+		<session_date>1526688000</session_date>
+		<start>09:45</start>
+		<session_end_time>10:00</session_end_time>
+		<session_speakers_list><![CDATA[a:1:{i:0;s:4:"5231";}]]></session_speakers_list>
+	</event>
+	<event>
+		<id>5135</id>
+		<title><![CDATA[Government surveillance around the world & what to do about it]]></title>
+		<description></description>
+		<abstract></abstract>
+		<SessionLocations>Pyramid</SessionLocations>
+		<room>Main Track</room>
+		<session_date>1526688000</session_date>
+		<start>10:00</start>
+		<session_end_time>11:30</session_end_time>
+		<session_speakers_list><![CDATA[a:1:{i:0;s:3:"149";}]]></session_speakers_list>
+	</event>
+	<event>
+		<id>5318</id>
+		<title>Check in</title>
+		<description></description>
+		<abstract></abstract>
+		<SessionLocations>Pyramid</SessionLocations>
+		<room>Main Track</room>
+		<session_date>1526688000</session_date>
+		<start>09:00</start>
+		<session_end_time>09:30</session_end_time>
+		<session_speakers_list></session_speakers_list>
+	</event>
+	<event>
+		<id>5323</id>
+		<title><![CDATA[Government surveillance around the world & what to do about it]]></title>
+		<description></description>
+		<abstract></abstract>
+		<SessionLocations>Pyramid</SessionLocations>
+		<room>Main Track</room>
+		<session_date>1526688000</session_date>
+		<start>10:00</start>
+		<session_end_time>11:30</session_end_time>
+		<session_speakers_list><![CDATA[a:3:{i:0;s:3:"149";i:1;s:4:"5235";i:2;s:4:"5233";}]]></session_speakers_list>
+	</event>
+	<event>
+		<id>5324</id>
+		<title>EU Copyright Reform: Challenges and Risks in the FLOSS Ecosystem</title>
+		<description><![CDATA[The current EU Copyright Reform proposal puts pressure on platforms to monitor and filter all description, including uploaded free and open-source software, for copyright infringement (Article 13), proposes a new 20-year license for news snippets (Article 11), and limits who can access datasets -- including open data (Article 3). Any of these would be terrible outcomes. Let's demand better copyright reform!
+
+In this session, we will tackle the following questions:
+- What's happening with the EU Copyright Reform?
+- How will Articles 11, 13 + 3 affect the Internet experience in Europe?
+- How will the proposed reform affect the FLOSS ecosystem in Europe? The rest of the world?
+- Why is this happening?
+- What is Mozilla doing about it, and what can you do about it?
+
+Note: The EU Copyright Reform restrictions can also be applied to non-EU citizens, therefore everybody regardless of citizenship is encouraged to participate in the session.]]></description>
+		<abstract></abstract>
+		<SessionLocations>Pyramid</SessionLocations>
+		<room>Main Track</room>
+		<session_date>1526688000</session_date>
+		<start>11:30</start>
+		<session_end_time>12:00</session_end_time>
+		<session_speakers_list><![CDATA[a:1:{i:0;s:4:"5237";}]]></session_speakers_list>
+	</event>
+	<event>
+		<id>5325</id>
+		<title>The approach to free software and culture at Roma Capitale</title>
+		<description>This article is focused on the actions of Roma Capitale to increase its use of Free and Libre Open Source Software (FLOSS), within the framework of Roma Capitaleâs Digital Agenda 2017-2021. The main objective is to break the vendor lock-in, to guarantee more efficiency, sustainability and independence from suppliers in the performance of its duty. Starting from the political level, in 2016 a Resolution for the use of FLOSS was adopted. In a few words, it was decided to be mandatory for this Administration to choose open source solutions whenever possible, taking into consideration the legal and technical constraints. Consequently, during the 2017, the Municipality of Rome took well-orchestrated steps to implement its program about the transformation towards FLOSS: (i) an assessment about Roma Capitaleâs main systems and their impacts on internal and external users, was released; (ii) the open and proprietary components were evaluated; (iii) a migration roadmap to FLOSS was established. At present LibreOffice, Mozilla, Thunderbird, Zimbra have been installed and customized on more than 10000 client workstations and cohabit with proprietary software. A gradual switch off started first by employees that hardly ever use the traditional tools and a community of 100 âFLOSS passionate peopleâ was constituted.</description>
+		<abstract></abstract>
+		<SessionLocations>Pyramid</SessionLocations>
+		<room>Main Track</room>
+		<session_date>1526688000</session_date>
+		<start>12:00</start>
+		<session_end_time>12:30</session_end_time>
+		<session_speakers_list><![CDATA[a:1:{i:0;s:4:"5239";}]]></session_speakers_list>
+	</event>
+	<event>
+		<id>5332</id>
+		<title>MOOCs, Open Education and developing countries: something good is in the air?</title>
+		<description>Massive Open Online Courses, also known as MOOCs are a relatively new phenomenon in the education sphere, but they are getting the attention of many scholars because of their exponential growth rate and because of the popularity they have gained, especially in developing countries. In order to better understand the MOOCs model in education, we should analyze the contest in which MOOCs were born and where they are developing nowadays. In its core philosophy, education is strictly connected with the concepts of sharing
+and openness. The internet age in which we are living and the fast adoption of digital technologies by the vast majority of people living throughout our planet has significantly boosted the degree of openness of education, by bringing into the scene new powerful actors, such as MOOCs.
+Furthermore, MOOCs diffusion in developing countries leads to new interesting opportunities and challenging threats. Unfortunately, evidence about MOOCs in developing countries is not really easy to find as the outcome of MOOCs seems to be country specific; in addition, MOOCs are a brand-new topic in the universe of OER, for which further investigation is needed.</description>
+		<abstract></abstract>
+		<SessionLocations>Pyramid</SessionLocations>
+		<room>Main Track</room>
+		<session_date>1526688000</session_date>
+		<start>12:30</start>
+		<session_end_time>12:45</session_end_time>
+		<session_speakers_list><![CDATA[a:2:{i:0;s:4:"5241";i:1;s:4:"5245";}]]></session_speakers_list>
+	</event>
+	<event>
+		<id>5333</id>
+		<title>Lunch Break</title>
+		<description></description>
+		<abstract></abstract>
+		<SessionLocations>Protik</SessionLocations>
+		<room>Talk 1</room>
+		<session_date>1526688000</session_date>
+		<start>13:00</start>
+		<session_end_time>13:45</session_end_time>
+		<session_speakers_list></session_speakers_list>
+	</event>
+	<event>
+		<id>5334</id>
+		<title>State of open source machine learning</title>
+		<description><![CDATA[Machine learning... Probably the most overhyped word in IT nowadays. New frameworks, new tools, thousands of papers each month. Rappers singing on major conferences. It's hard to imagine the machine learning industry without open source projects. What are they? How are they competing? What is waiting for us in the future? And what is called an open research? Let's figure out these questions together.]]></description>
+		<abstract></abstract>
+		<SessionLocations>Pyramid</SessionLocations>
+		<room>Main Track</room>
+		<session_date>1526688000</session_date>
+		<start>13:45</start>
+		<session_end_time>14:15</session_end_time>
+		<session_speakers_list><![CDATA[a:1:{i:0;s:4:"5243";}]]></session_speakers_list>
+	</event>
+	<event>
+		<id>5335</id>
+		<title>Just under the surface of Linux</title>
+		<description><![CDATA[We all use files, directories, and processes whenever we use Linux, but not everyone knows what they really are and how they are brought into existence. We won't go very deeply into it, but will introduce the underlying concepts enough to improve your understanding of what's going on in your computer.]]></description>
+		<abstract></abstract>
+		<SessionLocations>Pyramid</SessionLocations>
+		<room>Main Track</room>
+		<session_date>1526688000</session_date>
+		<start>14:15</start>
+		<session_end_time>14:45</session_end_time>
+		<session_speakers_list><![CDATA[a:1:{i:0;s:4:"5221";}]]></session_speakers_list>
+	</event>
+	<event>
+		<id>5336</id>
+		<title>Securing Web Apps with Auth0</title>
+		<description><![CDATA[Securing the Web Apps we built is a big challenge. Let's understand about managing our Identity. In this talk I'll cover a complete new way to solve Identity problems.]]></description>
+		<abstract></abstract>
+		<SessionLocations>Pyramid</SessionLocations>
+		<room>Main Track</room>
+		<session_date>1526688000</session_date>
+		<start>14:45</start>
+		<session_end_time>15:15</session_end_time>
+		<session_speakers_list><![CDATA[a:1:{i:0;s:4:"5247";}]]></session_speakers_list>
+	</event>
+	<event>
+		<id>5337</id>
+		<title>Easy GnuPG</title>
+		<description><![CDATA[There are scads of options presented by GnuPG, which are all part of making it the flexible and powerful an encryption framework that it is. But it's extremely complicated to get started with, and that quite reasonably puts people off.
+
+EasyGnuPG is a wrapper script that tries to simplify the process of using GnuPG. In order to simplify things, it is opinionated about the "right" way to use GnuPG.]]></description>
+		<abstract></abstract>
+		<SessionLocations>Pyramid</SessionLocations>
+		<room>Main Track</room>
+		<session_date>1526688000</session_date>
+		<start>15:15</start>
+		<session_end_time>15:45</session_end_time>
+		<session_speakers_list><![CDATA[a:1:{i:0;s:4:"5249";}]]></session_speakers_list>
+	</event>
+	<event>
+		<id>5338</id>
+		<title>Fedora atomic workstation in practice</title>
+		<description>Since a few releases, the Fedora project contributors have been working on a new system to deliver updates to the distribution based on immutable images with ostree and containers technology for the workstation such as flatpak.
+
+This talk will present the work, how it is used to enable distribution rollback, better security with isolation and what changed on the day to day workflow of a user.</description>
+		<abstract></abstract>
+		<SessionLocations>Pyramid</SessionLocations>
+		<room>Main Track</room>
+		<session_date>1526688000</session_date>
+		<start>15:45</start>
+		<session_end_time>16:15</session_end_time>
+		<session_speakers_list><![CDATA[a:1:{i:0;s:4:"5251";}]]></session_speakers_list>
+	</event>
+	<event>
+		<id>5339</id>
+		<title>The precious stones of the openSUSE crown</title>
+		<description>We will start with gentle introduction of openSUSE ecosystem in order to set the context of the talk. Then we will continue with brief description of few of the precious stones of the openSUSE crown. The talk will end with a short demo of each one of the discussed topics.</description>
+		<abstract></abstract>
+		<SessionLocations>Pyramid</SessionLocations>
+		<room>Main Track</room>
+		<session_date>1526688000</session_date>
+		<start>16:15</start>
+		<session_end_time>16:45</session_end_time>
+		<session_speakers_list><![CDATA[a:1:{i:0;s:4:"5255";}]]></session_speakers_list>
+	</event>
+	<event>
+		<id>5340</id>
+		<title>How to make Albanian open imagery and maps available to OpenStreetMap editors</title>
+		<description><![CDATA[Legal and technical steps are required until Albania's data becomes available in the OpenStreetMap editors. I will make a short inventory of possible sources, explain why they aren't background layers in OpenStreetMap editors yet, and show by example how communities elsewhere managed to solve similar issues.]]></description>
+		<abstract></abstract>
+		<SessionLocations>Pyramid</SessionLocations>
+		<room>Main Track</room>
+		<session_date>1526688000</session_date>
+		<start>16:45</start>
+		<session_end_time>17:15</session_end_time>
+		<session_speakers_list><![CDATA[a:1:{i:0;s:4:"5257";}]]></session_speakers_list>
+	</event>
+	<event>
+		<id>5341</id>
+		<title>Day 1 Closing Speech</title>
+		<description></description>
+		<abstract></abstract>
+		<SessionLocations>Pyramid</SessionLocations>
+		<room>Main Track</room>
+		<session_date>1526688000</session_date>
+		<start>17:15</start>
+		<session_end_time>17:30</session_end_time>
+		<session_speakers_list></session_speakers_list>
+	</event>
+	</day>
+<day index="2" date="2018-05-20">
+	<event>
+		<id>5342</id>
+		<title>*x architectural patterns for frontend development</title>
+		<description>How to survive in a world of complex async and scalable webapps.</description>
+		<abstract></abstract>
+		<SessionLocations>Pyramid</SessionLocations>
+		<room>Main Track</room>
+		<session_date>1526774400</session_date>
+		<start>10:00</start>
+		<session_end_time>10:30</session_end_time>
+		<session_speakers_list><![CDATA[a:1:{i:0;s:4:"5215";}]]></session_speakers_list>
+	</event>
+	<event>
+		<id>5343</id>
+		<title>Executable reverse engineering 101 with radare 2</title>
+		<description>Suffering from a lack of good free software tools, reverse engineering on Linux never been a very popular activity among hobbyists. However, more tools exist now, and we will discover how to use Radare2, a GPL set of tools to examine a wide range of binaries.
+This session will present the very basics concepts behind assembly and low level languages, and show simple commands and the philosophy behind radare 2. In order to be concrete, a very simple binary will be looked at to illustrate the concepts, tools and practices, and let people be ready to tackle more complex challenges either for fun (such as a security CTF) or for more serious reasons (such as malware and exploit dissecting).
+No binaries will be harmed during the presentation.</description>
+		<abstract></abstract>
+		<SessionLocations>Pyramid</SessionLocations>
+		<room>Main Track</room>
+		<session_date>1526774400</session_date>
+		<start>11:00</start>
+		<session_end_time>11:30</session_end_time>
+		<session_speakers_list><![CDATA[a:1:{i:0;s:4:"5251";}]]></session_speakers_list>
+	</event>
+	<event>
+		<id>5344</id>
+		<title>Privacy aware city navigation with CityZen</title>
+		<description><![CDATA[Navigating our cities using free software community based mobile apps in 'private mode' might sound like an easy task in 2017, but with a little research you will be quickly disappointed. There are related platforms out there, but some of them are lacking good User Experience, others are not community lead or are getting away from the free software freedoms due to their partnerships with companies that do not respect our privacy online. These are only some of the reasons the CityZen app was born in Tirana, as an OSM based Android app that helps us navigate our cities without tracking our location and activities. At the same time the app offers easy mobile optimized OpenStreetMap editing for easy contributions on the go. CityZen aims to be empowered by the community in terms of development and promotion and as a digital wallet for cryptocurrency used to make payments for goods and services from POIs easily through the app. Soon CityZen will apply blockchain as a decentralized process for the management of the cryptocoin based revenue that will be gathered through the app making it one of the few platforms out there used to help you find physical POIs and buy goods without giving away your real identity.]]></description>
+		<abstract></abstract>
+		<SessionLocations>Pyramid</SessionLocations>
+		<room>Main Track</room>
+		<session_date>1526774400</session_date>
+		<start>11:30</start>
+		<session_end_time>12:00</session_end_time>
+		<session_speakers_list><![CDATA[a:1:{i:0;s:4:"5259";}]]></session_speakers_list>
+	</event>
+	<event>
+		<id>5345</id>
+		<title>Consensus as a Service: OSI 20th Anniversary</title>
+		<description>The Open Source label was born in February 1998 as a new wayto popularise free software for business adoption. OSI will celebrateits 20th Anniversary on February 3, 2018, during the opening day ofFOSDEM 2018. The presentation will summarize the evolution of opensource licences and the Open Source Definition (OSD) across two decades,explain why the concept of free open source software has grown in bothrelevance and popularity and explore trends for the third decade of opensource.</description>
+		<abstract></abstract>
+		<SessionLocations>Protik</SessionLocations>
+		<room>Talk 1</room>
+		<session_date>1526688000</session_date>
+		<start>11:30</start>
+		<session_end_time>12:00</session_end_time>
+		<session_speakers_list><![CDATA[a:1:{i:0;s:3:"152";}]]></session_speakers_list>
+	</event>
+	<event>
+		<id>5346</id>
+		<title>LibreOffice 6.0</title>
+		<description>Positioning of LibreOffice 6.0, with a presentation of the development directions and a description of the most significant features.</description>
+		<abstract></abstract>
+		<SessionLocations>Protik</SessionLocations>
+		<room>Talk 1</room>
+		<session_date>1526688000</session_date>
+		<start>12:00</start>
+		<session_end_time>12:30</session_end_time>
+		<session_speakers_list><![CDATA[a:1:{i:0;s:3:"152";}]]></session_speakers_list>
+	</event>
+	<event>
+		<id>5347</id>
+		<title>How to improve OSM with official open-data (Tirana use-case)</title>
+		<description><![CDATA[Part 1 by Anisa Kuci: OSM Albania member / Open Labs member
+In many countries or cities we can find open-data publicly available but it's not always the case, that's why Open Labs contacted the Municipality of Tirana to make them open their data and ... it worked !
+Even though each country is different, we think it's usually difficult to connect with officials, especially to promote open-source softwares and open-data, this is how Open Labs community succeeded in both in Tirana.
+
+Part 2 by Jonathan Beliën: OSM Belgium board member / Open Labs remote member
+Once we have open-data available (in many formats), how can we make those data available for the many people who do not have a GIS background ?
+The idea we had is to create easy-to-use and open-source website and services so anyone can use those data to map in Tirana using their favorite editor (iD, JOSM, ...).
+
+Agreement : http://bit.ly/2Cdjk47
+Blog event: http://bit.ly/2obIa07
+GeoPortal : https://geoportal.openlabs.cc/]]></description>
+		<abstract></abstract>
+		<SessionLocations>Protik</SessionLocations>
+		<room>Talk 1</room>
+		<session_date>1526688000</session_date>
+		<start>12:30</start>
+		<session_end_time>13:00</session_end_time>
+		<session_speakers_list><![CDATA[a:1:{i:0;s:4:"5223";}]]></session_speakers_list>
+	</event>
+	<event>
+		<id>5348</id>
+		<title>The Document Foundation - The open, transparent and meritocratic future of free office software</title>
+		<description><![CDATA[The Document Foundation is the charitable entity behind LibreOffice, the free office suite. It not only provides a legal framework for the project, but also manages assets and donations to support the further development of the software as well as the community. The organizational setup of TDF is rather unique - by having chosen a German "Stiftung", the community has opted for an entity that is recognized as strong, stable and enduring. Its statutes provide for independence of a single corporate sponsor and at the same time focus on the core values of transparency, openness and meritocracy. In his talk, Florian gives an overview on how the foundation was set up, what goals it has achieved in the last six years of its existence and what plans and visions the community has for their future.]]></description>
+		<abstract></abstract>
+		<SessionLocations>Protik</SessionLocations>
+		<room>Talk 1</room>
+		<session_date>1526688000</session_date>
+		<start>14:00</start>
+		<session_end_time>14:30</session_end_time>
+		<session_speakers_list><![CDATA[a:1:{i:0;s:2:"93";}]]></session_speakers_list>
+	</event>
+	<event>
+		<id>5349</id>
+		<title>Get paid to contribute to FOSS</title>
+		<description>Outreachy, Google Summer of Code and Rails Summer of Code are some programs which offer paid internships with open source projects. I have been an past Outreachy intern and also a mentor for GSoC. I will talk about these programs, their timeline and application tips. This talk will mainly have a Q and A session with attendees about their queries and will involve other interns of these programs too.</description>
+		<abstract></abstract>
+		<SessionLocations>Protik</SessionLocations>
+		<room>Talk 1</room>
+		<session_date>1526688000</session_date>
+		<start>14:30</start>
+		<session_end_time>15:00</session_end_time>
+		<session_speakers_list><![CDATA[a:1:{i:0;s:4:"5275";}]]></session_speakers_list>
+	</event>
+	<event>
+		<id>5350</id>
+		<title>Wikidata for developers</title>
+		<description>Wikidata is the free structured data project, sister project to Wikipedia. This talk will explain what it is and how it can be integrated into your development projects.</description>
+		<abstract></abstract>
+		<SessionLocations>Protik</SessionLocations>
+		<room>Talk 1</room>
+		<session_date>1526688000</session_date>
+		<start>15:00</start>
+		<session_end_time>15:30</session_end_time>
+		<session_speakers_list><![CDATA[a:1:{i:0;s:4:"5277";}]]></session_speakers_list>
+	</event>
+	<event>
+		<id>5351</id>
+		<title>Building the School 2.0</title>
+		<description>How do we build the next generation education as an open source platform? What does open, free as in beer and free as in freedom have to do with it? How can we use crowdsourcing and AI to power communities and humanity to build their sustainable education? Story of ups and downs in building the school of the future.</description>
+		<abstract></abstract>
+		<SessionLocations>Protik</SessionLocations>
+		<room>Talk 1</room>
+		<session_date>1526688000</session_date>
+		<start>15:30</start>
+		<session_end_time>16:00</session_end_time>
+		<session_speakers_list><![CDATA[a:1:{i:0;s:4:"5227";}]]></session_speakers_list>
+	</event>
+	<event>
+		<id>5352</id>
+		<title><![CDATA[Free software won't write itself]]></title>
+		<description><![CDATA[Lots of people talk about Free software, not as many contribute to it. It's found on most servers and it's at the core of a lot of businesses. What if won't be developed anymore? What can we do to build our projects on solid foundations and be part of an healthy environment?]]></description>
+		<abstract></abstract>
+		<SessionLocations>Protik</SessionLocations>
+		<room>Talk 1</room>
+		<session_date>1526688000</session_date>
+		<start>16:00</start>
+		<session_end_time>16:30</session_end_time>
+		<session_speakers_list></session_speakers_list>
+	</event>
+	<event>
+		<id>5353</id>
+		<title>Death by a thousand chats</title>
+		<description>Helping developers and users stay sane. Email, Real-time communications services, apps and giant animated billboards are relentlessly seeking to grab our attention, 24 hours per day, 7 days per week. Has it gone too far? A novice motorcyclist needs little training to learn rapid acceleration: to stay alive, however, requires learning how and when to slow down as well. Achieving prosperity and avoiding burn-out in the information age requires a similar level of discipline in our use of technology. As developers, this is even more critical for us as we implement tools for our own communities and our users. In this session, Pocock, an experienced developer in a range of fields including real-time communications and monitoring systems, shines a light on these issues, looks at how we can improve our experience as developers and shows how free software is the most effective way to solve these challenges for our users, society at large.</description>
+		<abstract></abstract>
+		<SessionLocations>Protik</SessionLocations>
+		<room>Talk 1</room>
+		<session_date>1526688000</session_date>
+		<start>16:30</start>
+		<session_end_time>17:00</session_end_time>
+		<session_speakers_list><![CDATA[a:1:{i:0;s:4:"5280";}]]></session_speakers_list>
+	</event>
+	<event>
+		<id>5354</id>
+		<title>The economics of Open Source</title>
+		<description>Why is that Open Source software provides so much more value to users, yet represents such a small percentage of all software developed? In this interactive session, Sam will explain how economic principles, such as network effects and Economic Value to the Customer, drive proprietary firms to success while challenging Open Source growth. Various economic benefits of Open Source will be explored from the users’ perspective, to illustrate disadvantages which Open Source companies face. Participants will be challenged to find new ways of thinking about established problems to investment in Open Source development.</description>
+		<abstract></abstract>
+		<SessionLocations>Protik</SessionLocations>
+		<room>Talk 1</room>
+		<session_date>1526688000</session_date>
+		<start>17:00</start>
+		<session_end_time>17:30</session_end_time>
+		<session_speakers_list><![CDATA[a:1:{i:0;s:4:"5281";}]]></session_speakers_list>
+	</event>
+	<event>
+		<id>5355</id>
+		<title>LGBT issues on Wikipedia</title>
+		<description>I initiated the LGBTI project in Albanian Wikipedia a couple of months ago, when I was scamming through Wikipedia and noticed that there was a strong lack of information regarding topics on LGBT community. I feel close to the same concerns of this marginalized community because I work as a human rights journalist about LGBTI community in Albania. Through this lightining talk I would like to sum up the research I did during this months for the Wiki LGBT project.</description>
+		<abstract></abstract>
+		<SessionLocations>Protik</SessionLocations>
+		<room>Talk 1</room>
+		<session_date>1526774400</session_date>
+		<start>10:00</start>
+		<session_end_time>11:30</session_end_time>
+		<session_speakers_list><![CDATA[a:1:{i:0;s:4:"5283";}]]></session_speakers_list>
+	</event>
+	<event>
+		<id>5356</id>
+		<title>Everybody Should Learn How To Code</title>
+		<description>We live in the age of digital technology. Gaining an understanding of the work developers do can open up our imagination to the endless possibilities to change ourselves, our neighbors, our communities, our cities, our countries, and indeed, the world itself.</description>
+		<abstract></abstract>
+		<SessionLocations>Protik</SessionLocations>
+		<room>Talk 1</room>
+		<session_date>1526774400</session_date>
+		<start>11:30</start>
+		<session_end_time>12:00</session_end_time>
+		<session_speakers_list><![CDATA[a:1:{i:0;s:4:"5284";}]]></session_speakers_list>
+	</event>
+	<event>
+		<id>5357</id>
+		<title>Continuous Immutable Orchestration</title>
+		<description><![CDATA[We all know the hype around containers and immutable infrastructure. I have to admit it -- it is something that is quite big. There are notable tools such as Gitlab and Kubernetes/Openshift which can help us achieve immutable infrastructure. Gitlab provides an automated CI and CI pipeline, where an immutable Linux container, complete with its application payload, moves through a series of automated steps, including all the necessary automated tests, perhaps with a final human approval stage and landing in a production environment. Not only does this automated pipeline help to make the work visible (a key tenant in The Phoenix Project), it also enables the development team to achieve greater velocity and avoid the pitfalls of constant manual building and testing of code. With Kubernetes/Openshift as Gitlab’s friend, staging and production deployments remain immutable from the very start of your commit that you have made to your Gitlab project repository. Containers built during the Gitlab pipeline gets deployed as it is to Kubernetes/Openshift. Code compiled and built are turn into artefacts and deploy as it is on to the very same container. Finally, Kubernetes/Openshift orchestrate these containers - managing auto-scale, RBAC and secured communications between containers. Together, these tools helps to ensure that your development environment closely matches your production environment - less worry about the "but it works on my machine" disease we have all had for years and ensures high availability through auto-scaling.]]></description>
+		<abstract></abstract>
+		<SessionLocations>Protik</SessionLocations>
+		<room>Talk 1</room>
+		<session_date>1526774400</session_date>
+		<start>12:00</start>
+		<session_end_time>12:30</session_end_time>
+		<session_speakers_list><![CDATA[a:1:{i:0;s:4:"5219";}]]></session_speakers_list>
+	</event>
+	<event>
+		<id>5358</id>
+		<title>Petting your sideprojects</title>
+		<description><![CDATA[A creative mind never sleeps, it cannot be stopped and it doesn't have any boundaries (maybe except of imagining a new color). In the hands of an engineer this can be a powerful double-edged sword. It can both produce the next cool startup that changes the world as well as a bunch of ragequits from your editor. This talk is about how my sideprojects were born, failed, thrived or took control over my work.]]></description>
+		<abstract></abstract>
+		<SessionLocations>Protik</SessionLocations>
+		<room>Talk 1</room>
+		<session_date>1526774400</session_date>
+		<start>13:30</start>
+		<session_end_time>14:00</session_end_time>
+		<session_speakers_list><![CDATA[a:1:{i:0;s:4:"5213";}]]></session_speakers_list>
+	</event>
+	<event>
+		<id>5359</id>
+		<title>Open source programs and Debian</title>
+		<description>Debian has been actively participating in open source programs such as GSoC and outreachy and encouraging more students to open source.The talk will be about the journey through it.</description>
+		<abstract></abstract>
+		<SessionLocations>Protik</SessionLocations>
+		<room>Talk 1</room>
+		<session_date>1526774400</session_date>
+		<start>14:00</start>
+		<session_end_time>14:30</session_end_time>
+		<session_speakers_list><![CDATA[a:1:{i:0;s:4:"5288";}]]></session_speakers_list>
+	</event>
+	<event>
+		<id>5360</id>
+		<title>Lunch Break</title>
+		<description></description>
+		<abstract></abstract>
+		<SessionLocations>Protik</SessionLocations>
+		<room>Talk 1</room>
+		<session_date>1526774400</session_date>
+		<start>12:30</start>
+		<session_end_time>13:30</session_end_time>
+		<session_speakers_list></session_speakers_list>
+	</event>
+	<event>
+		<id>5361</id>
+		<title>Importance of communication in Open Source communities</title>
+		<description><![CDATA[Open Source communities are excellent example of most diverse and globally spread work-space. Although, this is a major plus and feels amazing to work in such a diverse culture, but at the same time we need to face the challenge of accurate communication. When we are not at the same place and can't talk face-to-face, expressing the right thing in correct manner becomes more important and we need to take care of several things. Obviously, we are not always using video chats when we are communicating with our fellow community members and lack of those facial expressions make it more complex to deliver the right message. Communication has many attributes to it - right description, ambiguity, accurate by all means (ethically, culturally) and at the end we are conveying what is intended.
+
+We may think communication to be a very basic technique of delivering message, but it gets complicated specially when it is not verbal and not on video chat. You may want to write a good "WOW" but it can be interpreted as a bad "WOW" depending on the receiver's culture/mood and intend.
+
+My paper will highlight certain examples of such communication glitches and also some basic magical rules of good communication.]]></description>
+		<abstract></abstract>
+		<SessionLocations>Protik</SessionLocations>
+		<room>Talk 1</room>
+		<session_date>1526774400</session_date>
+		<start>14:30</start>
+		<session_end_time>15:00</session_end_time>
+		<session_speakers_list><![CDATA[a:1:{i:0;s:4:"5289";}]]></session_speakers_list>
+	</event>
+	<event>
+		<id>5362</id>
+		<title>How to contribute to LibreOffice as a non-developer</title>
+		<description><![CDATA[LibreOffice is one of the largest and best known Open Source projects and we need you to make it even better. Many non-developers hesitate to contribute but we also need people who file enhancement requests, think about better solutions to the workflow, or make the application visually more attractive. That's what the design team does and this presentation will illustrate what exactly you can do.]]></description>
+		<abstract></abstract>
+		<SessionLocations>Protik</SessionLocations>
+		<room>Talk 1</room>
+		<session_date>1526774400</session_date>
+		<start>15:00</start>
+		<session_end_time>15:30</session_end_time>
+		<session_speakers_list><![CDATA[a:1:{i:0;s:4:"5217";}]]></session_speakers_list>
+	</event>
+	<event>
+		<id>5363</id>
+		<title>My first edit on Albanian Wikipedia</title>
+		<description>My first edit, how I started, what worked . How i started to edit, what i got from it and how i managed to be one of the wikipedians with most edits.</description>
+		<abstract></abstract>
+		<SessionLocations>Protik</SessionLocations>
+		<room>Talk 1</room>
+		<session_date>1526774400</session_date>
+		<start>15:30</start>
+		<session_end_time>16:00</session_end_time>
+		<session_speakers_list><![CDATA[a:1:{i:0;s:4:"5293";}]]></session_speakers_list>
+	</event>
+	<event>
+		<id>5364</id>
+		<title>Building and growing a diverse and inclusive community</title>
+		<description><![CDATA[After more than seven years of activities, the LibreOffice community is getting bigger. While building and growing a diverse and inclusive community you're looking for culture to be added, not culture to fit. New people can bring a point of view never seen before and is crucial to be able to include newcomers. The talk will describe the current state of the art of the LibreOffice community, underlining in progress activities and future possible outcomes.]]></description>
+		<abstract></abstract>
+		<SessionLocations>Protik</SessionLocations>
+		<room>Talk 1</room>
+		<session_date>1526774400</session_date>
+		<start>16:00</start>
+		<session_end_time>16:30</session_end_time>
+		<session_speakers_list><![CDATA[a:1:{i:0;s:3:"150";}]]></session_speakers_list>
+	</event>
+	<event>
+		<id>5365</id>
+		<title>Open Source 101</title>
+		<description><![CDATA[Welcome to Open Source 101! This session gives the big picture overview of what open source is and how you can get started. Learn what it means when we talk about free and open source software and where this movement began, over 30 years ago. After understanding the philosophy, get practical advice on how to choose a project and community to contribute to. You won't believe the two things nobody ever told you about choosing a project! At the end, we'll look at the Fedora Project community as an example and explain how you can begin contributing to an open source community today.]]></description>
+		<abstract></abstract>
+		<SessionLocations>Protik</SessionLocations>
+		<room>Talk 1</room>
+		<session_date>1526774400</session_date>
+		<start>16:30</start>
+		<session_end_time>17:00</session_end_time>
+		<session_speakers_list><![CDATA[a:1:{i:0;s:4:"5295";}]]></session_speakers_list>
+	</event>
+	<event>
+		<id>5366</id>
+		<title>The driving force behind open source communities</title>
+		<description>What motivates people to contribute? What makes contributors stay? How to retain new contributors? Contribution to open source survey.</description>
+		<abstract></abstract>
+		<SessionLocations>Protik</SessionLocations>
+		<room>Talk 1</room>
+		<session_date>1526774400</session_date>
+		<start>17:00</start>
+		<session_end_time>17:30</session_end_time>
+		<session_speakers_list><![CDATA[a:2:{i:0;s:4:"5297";i:1;s:4:"5298";}]]></session_speakers_list>
+	</event>
+	<event>
+		<id>5367</id>
+		<title>Join LibreOffice Community and (possibly) become a TDF member</title>
+		<description>This talk describes quickly LibreOffice project and how to contribute to it and let it grow with personal satisfaction. It shows how much fun gives to be part of its community and most of all, how to give some effort even not being necessarily a developer. So it will try to tell why to commit and when it can bring to a The Document Foundation’s membership.</description>
+		<abstract></abstract>
+		<SessionLocations>Protik</SessionLocations>
+		<room>Talk 1</room>
+		<session_date>1526774400</session_date>
+		<start>17:30</start>
+		<session_end_time>18:00</session_end_time>
+		<session_speakers_list><![CDATA[a:1:{i:0;s:4:"5299";}]]></session_speakers_list>
+	</event>
+	<event>
+		<id>5368</id>
+		<title>Writing pylint plugins</title>
+		<description>Pylint is the most popular Python source code analyzer which looks for programming errors, helps enforcing a coding standard and sniffs for some code smells. It is possible to write plugins to add your own checks, for example coding patterns that you have observed inside your software and are generally a bad practice or rules which you would like to enforce inside of a particular project, e.g. class name and inheritance conventions.</description>
+		<abstract></abstract>
+		<SessionLocations>Protik Workshop 1</SessionLocations>
+		<room>Workshop 1</room>
+		<session_date>1526688000</session_date>
+		<start>11:30</start>
+		<session_end_time>12:30</session_end_time>
+		<session_speakers_list><![CDATA[a:1:{i:0;s:4:"5211";}]]></session_speakers_list>
+	</event>
+	<event>
+		<id>5369</id>
+		<title>Deploy to Linux Server with Git</title>
+		<description>Git is one of the most commonly used tools to deploy files from your local machine to your remote machine/server. In this workshop we will introduce the steps needed to take in order to create a repository to our server so we can deploy from our local machine to our remote location by using git.</description>
+		<abstract></abstract>
+		<SessionLocations>Protik Workshop 1</SessionLocations>
+		<room>Workshop 1</room>
+		<session_date>1526688000</session_date>
+		<start>12:30</start>
+		<session_end_time>13:00</session_end_time>
+		<session_speakers_list><![CDATA[a:1:{i:0;s:4:"5265";}]]></session_speakers_list>
+	</event>
+	<event>
+		<id>5370</id>
+		<title>Speaking about Magento</title>
+		<description>I am going to talk about Magento Community Edition.
+Speaking about Magento performance, security , development basics, Magento 2 and ways how to run Magento locally using docker.</description>
+		<abstract></abstract>
+		<SessionLocations>Protik Workshop 1</SessionLocations>
+		<room>Workshop 1</room>
+		<session_date>1526688000</session_date>
+		<start>14:00</start>
+		<session_end_time>15:00</session_end_time>
+		<session_speakers_list><![CDATA[a:1:{i:0;s:4:"5302";}]]></session_speakers_list>
+	</event>
+	<event>
+		<id>5371</id>
+		<title><![CDATA[Git & GitHub workflow for beginners]]></title>
+		<description>An Intro to Git and GitHub for beginners, explaining git and some git commands. Also, what are branches, what is a fork, how to sync forks, how to set up Travis CI on your own fork etc?</description>
+		<abstract></abstract>
+		<SessionLocations>Protik Workshop 1</SessionLocations>
+		<room>Workshop 1</room>
+		<session_date>1526688000</session_date>
+		<start>15:00</start>
+		<session_end_time>16:00</session_end_time>
+		<session_speakers_list><![CDATA[a:1:{i:0;s:4:"5298";}]]></session_speakers_list>
+	</event>
+	<event>
+		<id>5372</id>
+		<title>Open Source Tools for Delivering Fast and Beautiful Images and Video</title>
+		<description>Video and images bringing high engagement to your website, but inefficient delivery can add to load time, decreasing customer satisfaction. This talk will walk through Open Source tools and techniques to deliver beautiful images and video description quickly to all screens using the latest tips and techniques.</description>
+		<abstract></abstract>
+		<SessionLocations>Protik Workshop 1</SessionLocations>
+		<room>Workshop 1</room>
+		<session_date>1526688000</session_date>
+		<start>16:00</start>
+		<session_end_time>17:00</session_end_time>
+		<session_speakers_list><![CDATA[a:1:{i:0;s:4:"5303";}]]></session_speakers_list>
+	</event>
+	<event>
+		<id>5373</id>
+		<title>Open Source ERP systems</title>
+		<description>We will talk about open source ERP system.</description>
+		<abstract></abstract>
+		<SessionLocations>Protik Workshop 1</SessionLocations>
+		<room>Workshop 1</room>
+		<session_date>1526774400</session_date>
+		<start>10:00</start>
+		<session_end_time>11:00</session_end_time>
+		<session_speakers_list><![CDATA[a:2:{i:0;s:4:"5306";i:1;s:4:"5305";}]]></session_speakers_list>
+	</event>
+	<event>
+		<id>5374</id>
+		<title>Wikipedia: WikiPride and Diversity</title>
+		<description><![CDATA[During the workshop we will teach the new ones to edit on Wikipedia and the existing users how to write good articles about LGBT subjects and women. Our main focus will be Wikipedia shqip and Wikidata. We are expecting to have participants of LGBT parade which will be hosted close to OSCAL(17 May), so we're thinking to have a 15 min talk about challenges in Wikipedia about these subject and the rest of the time to edit about these subjects.]]></description>
+		<abstract></abstract>
+		<SessionLocations>Protik Workshop 1</SessionLocations>
+		<room>Workshop 1</room>
+		<session_date>1526774400</session_date>
+		<start>11:00</start>
+		<session_end_time>12:00</session_end_time>
+		<session_speakers_list><![CDATA[a:2:{i:0;s:4:"5307";i:1;s:4:"5283";}]]></session_speakers_list>
+	</event>
+
+	<event>
+		<id>5375</id>
+		<title>Intro to eventgreSQL / eventGIS</title>
+		<description>Introduction to RDMS eventgreSQL, with specific topic related to eventGIS topic.</description>
+		<abstract></abstract>
+		<SessionLocations>Protik Workshop 1</SessionLocations>
+		<room>Workshop 1</room>
+		<session_date>1526774400</session_date>
+		<start>12:00</start>
+		<session_end_time>13:00</session_end_time>
+		<session_speakers_list><![CDATA[a:2:{i:0;s:4:"5308";i:1;s:4:"5376";}]]></session_speakers_list>
+	</event>
+	<event>
+		<id>5377</id>
+		<title>Introduction to Web Development with Django</title>
+		<description>A brief introduction to Django as an Open Source Web Framework and online resources to learn Web Development. After that a hands-on workshop on how to set up the Django Web Development Environment on your machine. If time permits we will also build a first simple app in Django.</description>
+		<abstract></abstract>
+		<SessionLocations>Protik Workshop 1</SessionLocations>
+		<room>Workshop 1</room>
+		<session_date>1526774400</session_date>
+		<start>13:30</start>
+		<session_end_time>14:30</session_end_time>
+		<session_speakers_list><![CDATA[a:1:{i:0;s:4:"5310";}]]></session_speakers_list>
+	</event>
+	<event>
+		<id>5378</id>
+		<title>Ham Radio and Software Defined Radio</title>
+		<description>Getting started with ham radio and software defined radio.</description>
+		<abstract></abstract>
+		<SessionLocations>Protik Workshop 2</SessionLocations>
+		<room>Workshop 2</room>
+		<session_date>1526688000</session_date>
+		<start>11:30</start>
+		<session_end_time>13:10</session_end_time>
+		<session_speakers_list><![CDATA[a:1:{i:0;s:4:"5280";}]]></session_speakers_list>
+	</event>
+	<event>
+		<id>5379</id>
+		<title>Migrating to LibreOffice</title>
+		<description>A short introductory description of the migration process to LibreOffice, as suggested by The Document Foundation.</description>
+		<abstract></abstract>
+		<SessionLocations>Protik Workshop 2</SessionLocations>
+		<room>Workshop 2</room>
+		<session_date>1526688000</session_date>
+		<start>14:00</start>
+		<session_end_time>15:00</session_end_time>
+		<session_speakers_list><![CDATA[a:1:{i:0;s:3:"152";}]]></session_speakers_list>
+	</event>
+	<event>
+		<id>5380</id>
+		<title>Moodle For Every School</title>
+		<description>Moodle is a well known and mature LMS (Learning Management System) that is used widely throughout the world. There are several ways for installing and maintaining Moodle and we will see some of them. Then we will present some shell scripts that facilitate the installation and maintenance of Moodle. We will see that they are simpler and more cost effective than the other available solutions.</description>
+		<abstract></abstract>
+		<SessionLocations>Protik Workshop 2</SessionLocations>
+		<room>Workshop 2</room>
+		<session_date>1526688000</session_date>
+		<start>15:00</start>
+		<session_end_time>16:00</session_end_time>
+		<session_speakers_list><![CDATA[a:1:{i:0;s:4:"5249";}]]></session_speakers_list>
+	</event>
+	<event>
+		<id>5381</id>
+		<title>Pandoc -- removing the fuss out of handing out documents</title>
+		<description>An introduction on how to use pandoc in document editing, publishing, storage and conversion</description>
+		<abstract></abstract>
+		<SessionLocations>Protik Workshop 2</SessionLocations>
+		<room>Workshop 2</room>
+		<session_date>1526688000</session_date>
+		<start>16:00</start>
+		<session_end_time>17:00</session_end_time>
+		<session_speakers_list><![CDATA[a:1:{i:0;s:4:"5312";}]]></session_speakers_list>
+	</event>
+	<event>
+		<id>5382</id>
+		<title>Introduction to Machine Learning</title>
+		<description><![CDATA[We will begin with a small introductory talk about Machine Learning and its present day applications. I will also talk about some common machine learning models, how they work and their pros and cons. During the last 30 minutes of the workshop, attendees will use learnings from the talk to build a machine learning model and derive some interesting predictions. The workshop will need knowledge of Python programming basics however, you are welcome to attend initial introductory talk to Machine Learning even if you don't know programming or Python yet. Please have python3 installed before if you plan to attend the workshop.]]></description>
+		<abstract></abstract>
+		<SessionLocations>Protik Workshop 2</SessionLocations>
+		<room>Workshop 2</room>
+		<session_date>1526774400</session_date>
+		<start>10:00</start>
+		<session_end_time>11:00</session_end_time>
+		<session_speakers_list><![CDATA[a:1:{i:0;s:4:"5275";}]]></session_speakers_list>
+	</event>
+	<event>
+		<id>5383</id>
+		<title>Securing the Web</title>
+		<description>With the right skills, tools and software, you can protect yourself and remain secure. This workshop will take attendees from no knowledge of open source web security tools to a deep understanding of how to use them and their growing set of capabilities.</description>
+		<abstract></abstract>
+		<SessionLocations>Protik Workshop 2</SessionLocations>
+		<room>Workshop 2</room>
+		<session_date>1526774400</session_date>
+		<start>11:00</start>
+		<session_end_time>12:00</session_end_time>
+		<session_speakers_list><![CDATA[a:1:{i:0;s:4:"5269";}]]></session_speakers_list>
+	</event>
+	<event>
+		<id>5384</id>
+		<title>Mapping public transport stops and lines using JOSM</title>
+		<description>Mapping public transport is not the easiest task to accomplish in OpenStreetMap.org. Therefore I mentored the creation of the PT_Assistant plugin as part of Google Summer of Code. This enables visualising the stops and the routes and gives validator warnings when problems are detected. Last summer the functionality was extended to bicycle and foot routes.</description>
+		<abstract></abstract>
+		<SessionLocations>Protik Workshop 2</SessionLocations>
+		<room>Workshop 2</room>
+		<session_date>1526774400</session_date>
+		<start>12:00</start>
+		<session_end_time>13:00</session_end_time>
+		<session_speakers_list><![CDATA[a:1:{i:0;s:4:"5385";}]]></session_speakers_list>
+	</event>
+	<event>
+		<id>5388</id>
+		<title>Lunch Break</title>
+		<description></description>
+		<abstract></abstract>
+		<SessionLocations>Pyramid</SessionLocations>
+		<room>Main Track</room>
+		<session_date>1526688000</session_date>
+		<start>13:00</start>
+		<session_end_time>13:45</session_end_time>
+		<session_speakers_list></session_speakers_list>
+	</event>
+	<event>
+		<id>5389</id>
+		<title>Lunch Break</title>
+		<description></description>
+		<abstract></abstract>
+		<SessionLocations>Protik Workshop 1</SessionLocations>
+		<room>Workshop 1</room>
+		<session_date>1526688000</session_date>
+		<start>13:00</start>
+		<session_end_time>13:45</session_end_time>
+		<session_speakers_list></session_speakers_list>
+	</event>
+	<event>
+		<id>5390</id>
+		<title>Lunch Break</title>
+		<description></description>
+		<abstract></abstract>
+		<SessionLocations>Protik Workshop 2</SessionLocations>
+		<room>Workshop 2</room>
+		<session_date>1526688000</session_date>
+		<start>13:00</start>
+		<session_end_time>13:45</session_end_time>
+		<session_speakers_list></session_speakers_list>
+	</event>
+	<event>
+		<id>5391</id>
+		<title>Machine Learning on Open Source code</title>
+		<description><![CDATA[Few people look at open source code as a massive dataset for researchers. Yet we've accumulated hundreds of terabytes of mostly human-generated data on GitHub which can be freely analyzed. Mining Software Repositories academic conference happens every year and presents extremely funny projects on top of open source. GHTorrent, Public Git Archive, TravisTorrent. Coding style transfer, code sentiment analysis, code modeling. This talk makes a very high-level overview of the conference's proceedings and also touches the related research we conduct at source{d}: github.com/src-d/awesome-machine-learning-on-source-code.]]></description>
+		<abstract></abstract>
+		<SessionLocations>Pyramid</SessionLocations>
+		<room>Main Track</room>
+		<session_date>1526774400</session_date>
+		<start>10:30</start>
+		<session_end_time>11:00</session_end_time>
+		<session_speakers_list><![CDATA[a:1:{i:0;s:4:"5243";}]]></session_speakers_list>
+	</event>
+	<event>
+		<id>5393</id>
+		<title>How I got access to Kosovo Citizens Information, without getting access within the servers!</title>
+		<description>I will show how I got sensitive information of Kosovo Citizens (Polling Station,Addreses,Name,Surname,ID-Number) without getting access within the servers! How this flaw was discovered? How was it done? The way to patch it (protect it)! And the scenario of where they can be used for! And how sensitive are they?!</description>
+		<abstract></abstract>
+		<SessionLocations>Pyramid</SessionLocations>
+		<room>Main Track</room>
+		<session_date>1526774400</session_date>
+		<start>12:00</start>
+		<session_end_time>12:30</session_end_time>
+		<session_speakers_list><![CDATA[a:1:{i:0;s:4:"5229";}]]></session_speakers_list>
+	</event>
+	<event>
+		<id>5394</id>
+		<title>Lunch Break</title>
+		<description></description>
+		<abstract></abstract>
+		<SessionLocations>Pyramid</SessionLocations>
+		<room>Main Track</room>
+		<session_date>1526774400</session_date>
+		<start>12:30</start>
+		<session_end_time>13:30</session_end_time>
+		<session_speakers_list></session_speakers_list>
+	</event>
+	<event>
+		<id>5395</id>
+		<title>Patterns in React</title>
+		<description><![CDATA[It's been five years since React's first version was released in 2013. Back then there were little to none code practices, project structures and community rules to be followed. And with the release of React 16 we have a more stable environment some patterns start to evolve as the community it's taking shape. This talk is about some of the most interesting parts of React, Design Patterns, Code structures, Redux best practices and scalability.]]></description>
+		<abstract></abstract>
+		<SessionLocations>Pyramid</SessionLocations>
+		<room>Main Track</room>
+		<session_date>1526774400</session_date>
+		<start>13:30</start>
+		<session_end_time>14:30</session_end_time>
+		<session_speakers_list><![CDATA[a:1:{i:0;s:4:"5225";}]]></session_speakers_list>
+	</event>
+	<event>
+		<id>5396</id>
+		<title>How to write pylint plugins</title>
+		<description>Pylint is the most popular Python source code analyzer which looks for programming errors, helps enforcing a coding standard and sniffs for some code smells. It is possible to write plugins to add your own checks, for example coding patterns that you have observed inside your software and are generally a bad practice or rules which you would like to enforce inside of a particular project, e.g. class name and inheritance conventions.</description>
+		<abstract></abstract>
+		<SessionLocations>Pyramid</SessionLocations>
+		<room>Main Track</room>
+		<session_date>1526774400</session_date>
+		<start>14:30</start>
+		<session_end_time>15:00</session_end_time>
+		<session_speakers_list><![CDATA[a:1:{i:0;s:4:"5211";}]]></session_speakers_list>
+	</event>
+	<event>
+		<id>5398</id>
+		<title>PWA power!</title>
+		<description>Make your website work completely offine, with look and feel of native App!</description>
+		<abstract></abstract>
+		<SessionLocations>Pyramid</SessionLocations>
+		<room>Main Track</room>
+		<session_date>1526774400</session_date>
+		<start>15:00</start>
+		<session_end_time>15:30</session_end_time>
+		<session_speakers_list><![CDATA[a:1:{i:0;s:4:"5215";}]]></session_speakers_list>
+	</event>
+	<event>
+		<id>5399</id>
+		<title>Lunch Break</title>
+		<description></description>
+		<abstract></abstract>
+		<SessionLocations>Protik Workshop 1</SessionLocations>
+		<room>Workshop 1</room>
+		<session_date>1526774400</session_date>
+		<start>13:00</start>
+		<session_end_time>13:30</session_end_time>
+		<session_speakers_list></session_speakers_list>
+	</event>
+	<event>
+		<id>5400</id>
+		<title>Lunch Break</title>
+		<description></description>
+		<abstract></abstract>
+		<SessionLocations>Protik Workshop 2</SessionLocations>
+		<room>Workshop 2</room>
+		<session_date>1526774400</session_date>
+		<start>13:00</start>
+		<session_end_time>13:30</session_end_time>
+		<session_speakers_list></session_speakers_list>
+	</event>
+	</day>
+</schedule>
